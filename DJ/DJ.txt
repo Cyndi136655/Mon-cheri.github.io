@@ -1,0 +1,9 @@
+plan
+1.GAN的一个小工程手写数字识别
+https://blog.csdn.net/jiongnima/article/details/80033169
+CGAN:
+https://blog.csdn.net/jiongnima/article/details/80209239
+CycleGAN:
+https://blog.csdn.net/jiongnima/article/details/80113976
+time:
+3-9/0401202
