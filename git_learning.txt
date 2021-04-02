@@ -1,0 +1,6 @@
+git学习
+ssh-keygen
+cat ~/.ssh/id_rsa.pub
+git clone
+cd ..
+git add
